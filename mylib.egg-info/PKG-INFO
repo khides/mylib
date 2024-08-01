@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: mylib
+Version: 0.0.2
+Summary: only calculation
+Author: khides
+Author-email: taikoud29study@gmail.com
+Requires-Dist: numpy==1.26.0
